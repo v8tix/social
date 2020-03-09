@@ -1,0 +1,47 @@
+[
+  {
+    "firstName": "Luke",
+    "lastName": "Kim",
+    "email": "pkim0@twitter.com",
+    "gender": "Male",
+    "profilePicture": "http://facetheforce.today/luke/100",
+    "createdAtISO": "2018-08-28T15:35:24.621-05:00",
+    "createdAtEpoch": 1535488524621
+  },
+  {
+    "firstName": "Yoda",
+    "lastName": "Gordon",
+    "email": "jgordon1@google.com.au",
+    "gender": "Female",
+    "profilePicture": "http://facetheforce.today/yoda/100",
+    "createdAtISO": "2018-08-28T15:35:24.623-05:00",
+    "createdAtEpoch": 1535488524623
+  },
+  {
+    "firstName": "Amidala",
+    "lastName": "Armstrong",
+    "email": "karmstrong2@reference.com",
+    "gender": "Female",
+    "profilePicture": "http://facetheforce.today/amidala/100",
+    "createdAtISO": "2018-08-28T15:35:24.623-05:00",
+    "createdAtEpoch": 1535488524623
+  },
+  {
+    "firstName": "Vader",
+    "lastName": "Garcia",
+    "email": "bgarcia3@purevolume.com",
+    "gender": "Female",
+    "profilePicture": "http://facetheforce.today/darthvader/100",
+    "createdAtISO": "2018-08-28T15:35:24.623-05:00",
+    "createdAtEpoch": 1535488524623
+  },
+  {
+    "firstName": "Palpatine",
+    "lastName": "Ross",
+    "email": "wross4@amazon.co.uk",
+    "gender": "Female",
+    "profilePicture": "http://facetheforce.today/palpatine/100",
+    "createdAtISO": "2018-08-28T15:35:24.624-05:00",
+    "createdAtEpoch": 1535488524624
+  }
+]
